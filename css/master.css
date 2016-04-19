@@ -1,4 +1,4 @@
-header {background-image: url("images/HeaderBack.jpg"); width: 100%; height: 100%; min-height: 100%; background-position: center center; background-repeat: no-repeat; background-size: cover; padding: 50% 0 0 0;}
+header {background-image: url("IImages/HeaderBack.jpg"); width: 100%; height: 100%; min-height: 100%; background-position: center center; background-repeat: no-repeat; background-size: cover; padding: 50% 0 0 0;}
 
 .navbar {padding: 30px;}
 .navbar-nav {background-color: white; }
@@ -7,7 +7,7 @@ header {background-image: url("images/HeaderBack.jpg"); width: 100%; height: 100
 .navbar-default {background-color: transparent; border-color: transparent;}
 
 .navbar-default .navbar-brand:hover{color: white;}
-.navbar-brand {background-image: url('images/logo2.png'); width: 200px;  background-position: center center; background-size: contain; background-repeat: no-repeat;}
+.navbar-brand {background-image: url('Images/logo2.png'); width: 200px;  background-position: center center; background-size: contain; background-repeat: no-repeat;}
 .overbob {width:100%;  text-align: center; color: white; margin-top: -450px; margin-left: auto; margin-right: auto;}
 .overbob button {background-color: transparent; border-color: 4px solid white; color: white; height: 50px;}
 .overbob button:hover {color: #336B78; }
@@ -52,7 +52,7 @@ header {background-image: url("images/HeaderBack.jpg"); width: 100%; height: 100
 .col-md-3.portfolio:hover {border: 3px solid #019875; transition: 0.2s;}
 .container-fluid .row {text-align: center;}
 .skillscontainer {height: 100%; padding: 15% 0 0 0;}
-.foto {background-image: url("images/varwyk.png");  height: 100%; min-height: 100%; background-position: center center; background-repeat: no-repeat; background-size: contain; padding: 45% 0 0 0;}
+.foto {background-image: url("IImages/varwyk.png");  height: 100%; min-height: 100%; background-position: center center; background-repeat: no-repeat; background-size: contain; padding: 45% 0 0 0;}
 .info {padding: 5% 10px 10px 10px;}
 .btn-social {
     display: inline-block;
